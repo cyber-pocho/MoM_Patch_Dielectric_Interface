@@ -208,10 +208,10 @@ p.z_min = -0.1;   p.z_max = 0.1;   // -10 a +10 cm
 
 ### Checks de Auto-Consistencia
 
-1. **Conservación de carga:** $\iint \sigma \, dS = Q$ constante ✓
-2. **Condición de frontera:** $V = V_0$ en el conductor ✓
-3. **Simetría:** Solución simétrica para parche cuadrado ✓
-4. **Residuo:** $|[Z]\{\sigma\} - \{V_0\}| < 10^{-15}$ ✓
+1. **Conservación de carga:** $\iint \sigma \, dS = Q$ constante
+2. **Condición de frontera:** $V = V_0$ en el conductor 
+3. **Simetría:** Solución simétrica para parche cuadrado
+4. **Residuo:** $|[Z]\{\sigma\} - \{V_0\}| < 10^{-15}$
 
 ### Validación de Orden de Magnitud
 
